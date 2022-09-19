@@ -1,0 +1,8 @@
+D:\KELAS XII RPL 1\BASIS DATA\TelkomStudent\TelkomStudent\bin\Debug\TelkomStudent.exe
+D:\KELAS XII RPL 1\BASIS DATA\TelkomStudent\TelkomStudent\bin\Debug\TelkomStudent.pdb
+D:\KELAS XII RPL 1\BASIS DATA\TelkomStudent\TelkomStudent\obj\x86\Debug\TelkomStudent.csprojResolveAssemblyReference.cache
+D:\KELAS XII RPL 1\BASIS DATA\TelkomStudent\TelkomStudent\obj\x86\Debug\TelkomStudent.Form1.resources
+D:\KELAS XII RPL 1\BASIS DATA\TelkomStudent\TelkomStudent\obj\x86\Debug\TelkomStudent.Properties.Resources.resources
+D:\KELAS XII RPL 1\BASIS DATA\TelkomStudent\TelkomStudent\obj\x86\Debug\TelkomStudent.csproj.GenerateResource.Cache
+D:\KELAS XII RPL 1\BASIS DATA\TelkomStudent\TelkomStudent\obj\x86\Debug\TelkomStudent.exe
+D:\KELAS XII RPL 1\BASIS DATA\TelkomStudent\TelkomStudent\obj\x86\Debug\TelkomStudent.pdb
